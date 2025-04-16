@@ -1,7 +1,7 @@
 <h1 align="center">Heyy, I'm Laijie,</h1>
 <h3 align="center">a Computer Science Engineer student at UPV</h3>
 
-- 📫 How to reach me **ji.laijie@gmail.com**
+- 📫 How to reach me **ji.laijie@gmail.com** or **ji.laijie@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
